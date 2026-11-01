@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.1.0/shitbox-tv-0.1.0.apk",
-  "changelog": "Erste Version mit integriertem App-Updater.",
+  "versionCode": 2,
+  "versionName": "0.1.1",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.1.1/shitbox-tv-0.1.1.apk",
+  "changelog": "Uhr einzeilig, Home-Hero flacher ohne schwarzen Balken, kleineres Logo, gekürzter Monat, neue Ersteinrichtung (Assistent mit Logo + Design-Schritt).",
   "mandatory": false,
   "minSdk": 26
 }
