@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.1.0/shitbox-tv-0.1.0.apk",
+  "changelog": "Erste Version mit integriertem App-Updater.",
+  "mandatory": false,
+  "minSdk": 26
+}
