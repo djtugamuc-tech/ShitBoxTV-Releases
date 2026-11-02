@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "0.1.1",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.1.1/shitbox-tv-0.1.1.apk",
-  "changelog": "Uhr einzeilig, Home-Hero flacher ohne schwarzen Balken, kleineres Logo, gekürzter Monat, neue Ersteinrichtung (Assistent mit Logo + Design-Schritt).",
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.1.2/shitbox-tv-0.1.2.apk",
+  "changelog": "Neues Design mit Liquid-Glass-Buttons, ruhigeres Scrollen im Home, Trailer laufen direkt in der App – und Konfetti zur Feier des Updates.",
   "mandatory": false,
   "minSdk": 26
 }
