@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "0.1.3",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.1.3/shitbox-tv-0.1.3.apk",
-  "changelog": "Alle Filmquellen laden wieder: HDFilme, MEGAKINO und KinoGer sind an ihre neuen Adressen angepasst. Buttons zeigen den Fokus jetzt überall mit der Akzentfarbe, und das Start-Intro ist neu.",
+  "versionCode": 5,
+  "versionName": "0.1.4",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.1.4/shitbox-tv-0.1.4.apk",
+  "changelog": "Übersichtlicherer Startbildschirm: Reihen zeigen ihre Anzahl, laufende Sendungen ihre Uhrzeit. Detailseiten nennen Jahr, Laufzeit und Bewertung, setzen Filme dort fort wo du aufgehört hast und listen Folgen mit Vorschaubild. Im Live TV siehst du neben der Senderliste, was heute noch kommt.",
   "mandatory": false,
   "minSdk": 26
 }
