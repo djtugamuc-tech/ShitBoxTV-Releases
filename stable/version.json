@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.4",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.1.4/shitbox-tv-0.1.4.apk",
-  "changelog": "Übersichtlicherer Startbildschirm: Reihen zeigen ihre Anzahl, laufende Sendungen ihre Uhrzeit. Detailseiten nennen Jahr, Laufzeit und Bewertung, setzen Filme dort fort wo du aufgehört hast und listen Folgen mit Vorschaubild. Im Live TV siehst du neben der Senderliste, was heute noch kommt.",
+  "versionCode": 6,
+  "versionName": "0.1.5",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.1.5/shitbox-tv-0.1.5.apk",
+  "changelog": "Live TV und Free TV zeigen neben der Senderliste das Tagesprogramm, mit Blättern zwischen den Tagen. Der Startbildschirm lässt der Bühne mehr Raum. Popups haben jetzt einen weichgezeichneten Hintergrund und einen kräftigen Rahmen. Zurück führt aus einem Titel wieder genau zu dem Poster, aus dem du kamst. Auf der Startseite beendet Zurück die App nicht mehr versehentlich. Updates meldet die App ab sofort bei jedem Start.",
   "mandatory": false,
   "minSdk": 26
 }
