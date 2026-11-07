@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.2.1",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.1/shitbox-tv-0.2.1.apk",
-  "changelog": "Free TV lässt sich wieder nach Ländern trennen: Sender der festen Liste M3UPT zählen als Portugal, Länder aus iptv-org (z. B. Mongolei) stehen daneben in der Auswahl.",
+  "versionCode": 9,
+  "versionName": "0.2.2",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.2/shitbox-tv-0.2.2.apk",
+  "changelog": "Einstellungen neu sortiert in sechs klare Bereiche: Quellen, Programm (EPG), Inhalte bearbeiten, Darstellung, Aktualisierung sowie Hilfe und Diagnose. Film-Anbieter und Domains liegen jetzt unter Quellen, Wetter und Sport unter Darstellung.",
   "mandatory": false,
   "minSdk": 26
 }
