@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "0.1.5",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.1.5/shitbox-tv-0.1.5.apk",
-  "changelog": "Live TV und Free TV zeigen neben der Senderliste das Tagesprogramm, mit Blättern zwischen den Tagen. Der Startbildschirm lässt der Bühne mehr Raum. Popups haben jetzt einen weichgezeichneten Hintergrund und einen kräftigen Rahmen. Zurück führt aus einem Titel wieder genau zu dem Poster, aus dem du kamst. Auf der Startseite beendet Zurück die App nicht mehr versehentlich. Updates meldet die App ab sofort bei jedem Start.",
+  "versionCode": 7,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.0/shitbox-tv-0.2.0.apk",
+  "changelog": "Film-Quellen prüfen ihre Adresse beim Start selbst und übernehmen Umzüge; Domain je Quelle in den Einstellungen änderbar. Neue Anbieter FilmPro, Topstreamfilm, Movie2K, NetzKino und AniWorld. Quellenwahl im VoD über eine Pille mit Auswahl. Hero-Bühne mit scharfen Breitbildern aus TMDB. Globale Suche über die Lupe. Mongolisches Programm von zuragt.mn als EPG. Portugiesische Sender von M3UPT, Radios und Strand-Webcams in den Tabs Radio und Beach. Fernbedienungs-Navigation geglättet.",
   "mandatory": false,
   "minSdk": 26
 }
