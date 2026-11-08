@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "0.2.5",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.5/shitbox-tv-0.2.5.apk",
-  "changelog": "App startet nach einem Update von selbst neu • Navigationsleiste reagiert flüssiger, Effekt bleibt",
+  "versionCode": 13,
+  "versionName": "0.2.6",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.6/shitbox-tv-0.2.6.apk",
+  "changelog": "App startet nach einem Update jetzt wirklich von selbst neu",
   "mandatory": false,
   "minSdk": 26
 }
