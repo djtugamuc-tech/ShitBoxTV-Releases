@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "0.2.14",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.14/shitbox-tv-0.2.14.apk",
-  "changelog": "Neuer Tab movie.mn: Filme und Serien von BestTV (besttv.us) mit Genres, Suche und Episoden; Anmeldung unter Einstellungen → Quellen → movie.mn mit E-Mail und Passwort; 18+-Titel verschwommen bis zur Kinderschutz-PIN",
+  "versionCode": 22,
+  "versionName": "0.2.15",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.15/shitbox-tv-0.2.15.apk",
+  "changelog": "movie.mn: Genres auf Deutsch • 18+-Titel bleiben verschwommen, bis die Kinderschutz-PIN eingegeben wird; die Freigabe erlischt beim Verlassen der App",
   "mandatory": false,
   "minSdk": 26
 }
