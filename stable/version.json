@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.2.16",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.16/shitbox-tv-0.2.16.apk",
-  "changelog": "movie.mn: 18+-Titel nur noch in der Kategorie Erwachsene (18+), die sich erst nach der Kinderschutz-PIN öffnet",
+  "versionCode": 24,
+  "versionName": "0.2.17",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.17/shitbox-tv-0.2.17.apk",
+  "changelog": "movie.mn (BestTV) lässt sich jetzt auch per QR-Code vom Handy einrichten (Einstellungen → Quellen → movie.mn). Serien: OK auf einer Staffel springt direkt auf die erste Folge, alle Folgen sind anwählbar. Meine Liste auf einer Folgenseite merkt die ganze Serie.",
   "mandatory": false,
   "minSdk": 26
 }
