@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "0.2.13",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.13/shitbox-tv-0.2.13.apk",
-  "changelog": "Neue feste Free-TV-Quelle Mongolei SkyGo-Streams mit rund 40 Sendern (Einstellungen → Quellen → Free TV), Programm von zuragt.mn automatisch • Doppelte Sender zusammenführen unter Quellen, gilt überall • Glüheffekt der VoD-Pillen nicht mehr kantig",
+  "versionCode": 21,
+  "versionName": "0.2.14",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.14/shitbox-tv-0.2.14.apk",
+  "changelog": "Neuer Tab movie.mn: Filme und Serien von BestTV (besttv.us) mit Genres, Suche und Episoden; Anmeldung unter Einstellungen → Quellen → movie.mn mit E-Mail und Passwort; 18+-Titel verschwommen bis zur Kinderschutz-PIN",
   "mandatory": false,
   "minSdk": 26
 }
