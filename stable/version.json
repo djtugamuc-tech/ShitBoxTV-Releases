@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.2.2",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.2/shitbox-tv-0.2.2.apk",
-  "changelog": "Einstellungen neu sortiert in sechs klare Bereiche: Quellen, Programm (EPG), Inhalte bearbeiten, Darstellung, Aktualisierung sowie Hilfe und Diagnose. Film-Anbieter und Domains liegen jetzt unter Quellen, Wetter und Sport unter Darstellung.",
+  "versionCode": 10,
+  "versionName": "0.2.3",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.3/shitbox-tv-0.2.3.apk",
+  "changelog": "Navigationsleiste senkrecht links im Glas-Stil mit gleitender Linse, Lupe oben, Uhr und Einstellungen/Beenden unten • Alle Buttons im neuen Stil mit Funkel-Symbol • Auto-Update: Hinweis beim Start lädt und installiert direkt, Später möglich • VoD-Detail mit lesbarem Zurück-Button",
   "mandatory": false,
   "minSdk": 26
 }
