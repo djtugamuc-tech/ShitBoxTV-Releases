@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.2.6",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.6/shitbox-tv-0.2.6.apk",
-  "changelog": "App startet nach einem Update jetzt wirklich von selbst neu",
+  "versionCode": 14,
+  "versionName": "0.2.7",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.7/shitbox-tv-0.2.7.apk",
+  "changelog": "Neustart nach dem Update: einmalige Freigabe „Über anderen Apps anzeigen“ im Update-Dialog oder unter Einstellungen → Aktualisierung → App-Update; danach startet die App nach jedem Update von selbst",
   "mandatory": false,
   "minSdk": 26
 }
