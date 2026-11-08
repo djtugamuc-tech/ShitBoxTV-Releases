@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.2.4",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.4/shitbox-tv-0.2.4.apk",
-  "changelog": "Wetter sitzt jetzt in der linken Leiste über der Uhr (Symbol, Temperatur, Ort; OK öffnet die Ortswahl) • Seitenanzeige der Startbühne ohne dunkle Pille, dezente Striche unten rechts",
+  "versionCode": 12,
+  "versionName": "0.2.5",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.5/shitbox-tv-0.2.5.apk",
+  "changelog": "App startet nach einem Update von selbst neu • Navigationsleiste reagiert flüssiger, Effekt bleibt",
   "mandatory": false,
   "minSdk": 26
 }
