@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.2.3",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.3/shitbox-tv-0.2.3.apk",
-  "changelog": "Navigationsleiste senkrecht links im Glas-Stil mit gleitender Linse, Lupe oben, Uhr und Einstellungen/Beenden unten • Alle Buttons im neuen Stil mit Funkel-Symbol • Auto-Update: Hinweis beim Start lädt und installiert direkt, Später möglich • VoD-Detail mit lesbarem Zurück-Button",
+  "versionCode": 11,
+  "versionName": "0.2.4",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.4/shitbox-tv-0.2.4.apk",
+  "changelog": "Wetter sitzt jetzt in der linken Leiste über der Uhr (Symbol, Temperatur, Ort; OK öffnet die Ortswahl) • Seitenanzeige der Startbühne ohne dunkle Pille, dezente Striche unten rechts",
   "mandatory": false,
   "minSdk": 26
 }
