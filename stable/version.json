@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.2.17",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.17/shitbox-tv-0.2.17.apk",
-  "changelog": "movie.mn (BestTV) lässt sich jetzt auch per QR-Code vom Handy einrichten (Einstellungen → Quellen → movie.mn). Serien: OK auf einer Staffel springt direkt auf die erste Folge, alle Folgen sind anwählbar. Meine Liste auf einer Folgenseite merkt die ganze Serie.",
+  "versionCode": 25,
+  "versionName": "0.2.18",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.18/shitbox-tv-0.2.18.apk",
+  "changelog": "Player: Links/Rechts spult direkt 10 Sekunden, gedrückt halten spult schneller. Player-Infos mit kleinerer Schrift und kleineren Symbolen. movie.mn lädt den Katalog mit deinem Konto, damit wie im Web alle Titel erscheinen.",
   "mandatory": false,
   "minSdk": 26
 }
