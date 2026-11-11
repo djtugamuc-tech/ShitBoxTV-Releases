@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.2.18",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.18/shitbox-tv-0.2.18.apk",
-  "changelog": "Player: Links/Rechts spult direkt 10 Sekunden, gedrückt halten spult schneller. Player-Infos mit kleinerer Schrift und kleineren Symbolen. movie.mn lädt den Katalog mit deinem Konto, damit wie im Web alle Titel erscheinen.",
+  "versionCode": 26,
+  "versionName": "0.2.19",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.19/shitbox-tv-0.2.19.apk",
+  "changelog": "movie.mn zeigt jetzt hinter jeder Kategorie die Anzahl der Titel. Im Player liegen die Knöpfe (zurück, Pause, vor) nicht mehr mitten im Bild, sondern unten über der Fortschrittsleiste.",
   "mandatory": false,
   "minSdk": 26
 }
