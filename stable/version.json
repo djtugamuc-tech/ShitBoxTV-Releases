@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.2.19",
-  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.19/shitbox-tv-0.2.19.apk",
-  "changelog": "movie.mn zeigt jetzt hinter jeder Kategorie die Anzahl der Titel. Im Player liegen die Knöpfe (zurück, Pause, vor) nicht mehr mitten im Bild, sondern unten über der Fortschrittsleiste.",
+  "versionCode": 27,
+  "versionName": "0.2.20",
+  "apkUrl": "https://github.com/djtugamuc-tech/ShitBoxTV-Releases/releases/download/v0.2.20/shitbox-tv-0.2.20.apk",
+  "changelog": "Gesehen-Haken: Filme und Folgen ab 90 % sowie komplett geschaute Serien bekommen einen Haken. Film-Quellen, movie.mn und NOS TV erscheinen erst nach Eingabe ihres Codes unter Einstellungen → Quellen → Code eingeben. Im VoD sind alle Film-Seiten zunächst abgewählt und werden unter Einstellungen → Film-Quellen einzeln eingeschaltet; Xtream erscheint automatisch mit eigenem Zugang.",
   "mandatory": false,
   "minSdk": 26
 }
